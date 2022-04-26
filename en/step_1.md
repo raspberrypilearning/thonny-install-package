@@ -1,59 +1,19 @@
-## Introduction
+## Installing Python packages with Thonny
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+- Open Thonny from your application menu
 
-### What you will make
+- Click on **Tools** in the menu bar, and then select **Manage packages**
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![Tools and Manage packages selected from the menu bar](images/thonny-manage-pacages.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+- Use the search box to find the package you are looking for.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The search package menu with matplotlib having been searched for](images/thoony-search-package.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+- Select the package you want to install, then click on the **Install** button.
 
-+ A computer or tablet capable of running Scratch 3
+![matplotlib has been selected adn the Install button has been highlighted](images/thonny-install-package.png)
 
-### Software
+- A window will open showing the progress of your package install. Once completed the package will be available to use in your programs.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![the install window showing the progress of matplotlib installation](images/thonny-installing-package.png)
